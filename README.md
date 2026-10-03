@@ -1,5 +1,6 @@
 # 💫 About Me:
-I’m currently working on a project focused on analyzing privacy policies and highlighting potential privacy concerns, with the goal of making complex policies easier to understand. Alongside this, I’m building a strong foundation in core computer science subjects and Data Structures & Algorithms, while primarily focusing on Machine Learning. I enjoy learning by building practical projects that solve real-world problems. Outside of technology, I’m deeply interested in chess, both playing the game and exploring the strategy and problem-solving behind it.
+Annyeonghaseyo, Suhail this side, building things that sounded simpler in my head.
+Also, I play Chess.
 <br>
 
 
